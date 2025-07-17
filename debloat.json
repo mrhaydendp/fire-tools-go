@@ -1,10 +1,557 @@
 [
     {
-        "package": "com.amazon.firelauncher",
-        "friendly_name": "Fire Launcher",
-        "description": "Home screen launcher"
+        "id": "amazon.jackson19",
+        "name": "",
+        "description": ""
     },
     {
-        "package": "com.amazon.firelauncher"
+        "id": "amazon.speech.sim",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.aca",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.advertisingidsettings",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.afe.app",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.ags.app",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.alexa.multimodal.gemini",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.alexa.youtube.app",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.alta.h2clientservice",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.application.compatibility.enforcer",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.appverification",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.avod",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.bioscope",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.cardinal",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.charles",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.client.metrics",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.client.metrics.api",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.cloud9.contentservice",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.cloud9.kids",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.cloud9.systembrowserprovider",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.comms.kids",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.communication.discovery",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.connectivitydiag",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.csapp",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dcp",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dcp.contracts.framework.library",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dcp.contracts.library",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dcpms.fos.service",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dee.alexaonandroidos",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dee.app",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.device.messaging",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.device.metrics",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.device.sale.service",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.device.sync",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.device.sync.sdk.internal",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.diode",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dp.contacts",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dp.fbcontacts",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dp.logger",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.dpcclient",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.fireos.cirruscloud",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.firespotlight",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.geo.client.maps",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.geo.mapsv2",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.geo.mapsv3.resources",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.geo.mapsv3.services",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.hedwig",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.h2settingsfortablet",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.hybridadidservice",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.identity.auth.device.authorization",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.imdb.tv.mobile.app",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.imp",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.iris",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.kindle",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.kindle.kso",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.kindle.otter.oobe",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.kindle.personal_video",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.kindle.rdmdeviceadmin",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.kindle.unifiedSearch",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.kor.demo",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.legalsettings",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.logan",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.media.session.monitor",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.minerva.client.api",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.mp3",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.nimh",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.ods.kindleconnect",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.parentalcontrols",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.photos",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.photos.importer",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.platform",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.pm",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.providers.contentsupport",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.readynowcore",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.recess",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.securitysyncclient",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.shpm",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.smartgenie",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.speakscreen",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.sync.provider.ipc",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.sync.service",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.tahoe",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.tcomm",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.tcomm.client",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.tcomm.jackson",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.tv.launcher",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.tv.ottssocompanionapp",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.venezia",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.wallpaper",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.weather",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.webapp",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.whisperlink.core.android",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.whisperplay.contracts",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.whisperplay.service.install",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.windowshop",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.wirelessmetrics.service",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.amazon.zico",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.android.bookmarkprovider",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.android.carrierconfig",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.android.dreams.basic",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.android.email",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.android.protips",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.android.providers.downloads.ui",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.android.providers.partnerbookmarks",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.android.quicksearchbox",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.audible.application.kindle",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.fireos.arcus.proxy",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.fireos.usagestats.proxy",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.goodreads.kindle",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.here.odnp.service",
+        "name": "",
+        "description": ""
+    },
+    {
+        "id": "com.kingsoft.office.amz",
+        "name": "",
+        "description": ""
     }
 ]
