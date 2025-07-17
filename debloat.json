@@ -1,0 +1,10 @@
+[
+    {
+        "package": "com.amazon.firelauncher",
+        "friendly_name": "Fire Launcher",
+        "description": "Home screen launcher"
+    },
+    {
+        "package": "com.amazon.firelauncher"
+    }
+]
